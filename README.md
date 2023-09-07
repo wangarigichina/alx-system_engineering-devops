@@ -9,4 +9,9 @@
 ## 2. 0x01. Shell, permissions
 - Permissions
 - Other Man pages
-- Commands: `chmod`, `sudo`, `sudo`, `chown`, `chgrp`, `id`, `groups`
+- Commands: `chmod`, `sudo`, `sudo`, `chown`, `chgrp`, `id`, `groups`, `whoami`, `adduser`, `useradd`, `addgroup`
+## 2. 0x02. Shell, I/O Redirections and filters
+- Shell, I/O Redirection: What do the commands `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, tr do?
+- Special Characters
+- Other Man Pages
+- Commands: `echo`, `cat`, `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr`, `rev`, `cut`, `passwd`
